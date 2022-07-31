@@ -17,7 +17,7 @@
 - [x] Html
 - [x] CSS
 - [x] Javascript
-- [x]Pillow
+- [x] Pillow
 
 
 ## Pacotes
